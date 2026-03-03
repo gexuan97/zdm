@@ -1,6 +1,6 @@
 name: zdm_crawler
 
-于:
+on:
   #将下面两行代码取消注释
   schedule:
     - cron: "0/15 * * * *"
